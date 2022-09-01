@@ -5,6 +5,7 @@
   "homepage": "https://vegvisir46.github.io/react-ts-calendar/",
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "lint": "eslint */**.{tsx,ts}",
     "lint:fix": "eslint */**.{tsx,ts} --fix",
     "deploy": "gh-pages -d build",

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ts-calendar/static/css/main.431aaeec.css",
+    "main.js": "/react-ts-calendar/static/js/main.c64eecff.js",
+    "static/media/arrow.svg": "/react-ts-calendar/static/media/arrow.6201749a74705d2273d3.svg",
+    "static/media/arrow_white.svg": "/react-ts-calendar/static/media/arrow_white.b9c9e283d4cbe7781e62.svg",
+    "index.html": "/react-ts-calendar/index.html",
+    "main.431aaeec.css.map": "/react-ts-calendar/static/css/main.431aaeec.css.map",
+    "main.c64eecff.js.map": "/react-ts-calendar/static/js/main.c64eecff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.431aaeec.css",
+    "static/js/main.c64eecff.js"
+  ]
+}
